@@ -11,8 +11,10 @@
 
  .xyz h2 {
      align-items: center;
+     color: var(--textcolor);
  }
 
  .stlimg {
-     width: 20px;
+     width: 20%;
+
  }
