@@ -1,0 +1,18 @@
+ :root {
+     --background: blue;
+     --textcolor: red;
+
+ }
+
+ .xyz {
+     display: flex;
+     flex-direction: column;
+ }
+
+ .xyz h2 {
+     align-items: center;
+ }
+
+ .stlimg {
+     width: 20px;
+ }
